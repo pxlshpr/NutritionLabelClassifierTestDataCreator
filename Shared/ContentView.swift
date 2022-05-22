@@ -23,7 +23,7 @@ struct ContentView: View {
         var secondScanDiffs: [CFAbsoluteTime] = []
         var totalScanDiffs: [CFAbsoluteTime] = []
 
-        let imageIndices = 1...20
+        let imageIndices = 23...23
         for textCase in imageIndices {
             guard let image = UIImage(named: "\(textCase)") else {
                 fatalError("Couldn't load  image: \(textCase)")
