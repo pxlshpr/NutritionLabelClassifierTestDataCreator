@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "nutritionlabelclassifier",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/NutritionLabelClassifier.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d207f7d834e2f58f8e89c19b0b508093ec26d841"
+      }
+    },
+    {
+      "identity" : "swifthaptics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/SwiftHaptics",
+      "state" : {
+        "revision" : "6300a8681b551f3df1023266116ca9700dbd14f9",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swiftsugar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/SwiftSugar",
+      "state" : {
+        "branch" : "main",
+        "revision" : "604c71bd03c2556c51d46cbe23fa6a8abd307c1e"
+      }
+    },
+    {
+      "identity" : "swiftuisugar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/SwiftUISugar",
+      "state" : {
+        "revision" : "8e00cd968bec83e23ae9196c6cf393d80a9b71ba",
+        "version" : "0.0.133"
+      }
+    },
+    {
+      "identity" : "visionsugar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/VisionSugar.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e8a749ed02479ef97707fdfcc570302bcc561c1f"
+      }
+    }
+  ],
+  "version" : 2
+}
